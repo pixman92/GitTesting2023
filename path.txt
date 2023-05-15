@@ -1,0 +1,11 @@
+python3 revertMe.py 
+
+~/Documents/Programming/RevertPY
+
+cd ~/Documents/Programming/RevertPractice/GitPracticeFolder/GitTesting2023/
+
+
+cd ~/Documents/Programming/RevertPY/
+
+python3 ~/Documents/Programming/RevertPY/revertMe.py ~/Documents/Programming/RevertPractice/GitPracticeFolder/GitTesting2023 GitTesting2023
+
